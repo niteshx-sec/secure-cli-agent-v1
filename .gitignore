@@ -1,0 +1,17 @@
+# Secrets (CRITICAL: NEVER COMMIT)
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+myenv/
+env/
+
+# OS Specific
+.DS_Store
+Thumbs.db
